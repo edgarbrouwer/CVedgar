@@ -29,6 +29,8 @@ Personal information
 
 -   E-mail: edgarbrouwer\@hotmail.com
 
+-   html presentation assigment 2: http://edgarbrouwer.github.io/assignmentmath
+
  
 
 Education
