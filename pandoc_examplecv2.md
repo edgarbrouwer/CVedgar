@@ -30,6 +30,7 @@ Personal information
 -   E-mail: edgarbrouwer\@hotmail.com
 
 -   html presentation assigment 2: http://edgarbrouwer.github.io/assignmentmath
+-   Link to the third assignment: http://gitver.github.io/Thirdassignment/
 
  
 
